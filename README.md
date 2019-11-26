@@ -7,18 +7,21 @@ This software is developed based on QT5.6/C++
 
 ## Instructions 
 
-### 1. Open PointPicker software 
-
+### 1. Open PointPicker software
+ 
+  Click PointPicker.exe for running software.
   interface is shown as follow:
 
 <p align="center">
 	<img src="https://github.com/kaiwu119/PointPicker/blob/master/img/pointPicker1.png" alt="Sample"  width="600" height="350">
 	<p align="center">
-		<em></em>
+		<em>Interface</em>
 	</p>
 </p>
 
-### 2. click loadModel button
+### 2. load obj model
+
+   click loadModel button.
 
    Note: The file path cannot contain Chinese path
 
@@ -27,12 +30,12 @@ This software is developed based on QT5.6/C++
  <p align="center">
 	<img src="https://github.com/kaiwu119/PointPicker/blob/master/img/pointPicker2.png" alt="Sample"  width="600" height="350">
 	<p align="center">
-		<em>demo</em>
+		<em>a model displayed in software</em>
 	</p>
 </p>
 
-### 3. click Check box Point and picker
-
+### 3. select Points
+   Click Check box Point and picker.
    You can select points by right-clicking.
    As follows, three points are selected, the selected points are marked in red, and output related information is in the log
 
@@ -41,7 +44,7 @@ This software is developed based on QT5.6/C++
 <p align="center">
 	<img src="https://github.com/kaiwu119/PointPicker/blob/master/img/pointPicker3.png" alt="Sample"  width="600" height="350">
 	<p align="center">
-		<em>demo</em>
+		<em>select Point</em>
 	</p>
 </p>
 
@@ -52,7 +55,7 @@ This software is developed based on QT5.6/C++
 <p align="center">
 	<img src="https://github.com/kaiwu119/PointPicker/blob/master/img/pointPicker4.png" alt="Sample"  width="600" height="350">
 	<p align="center">
-		<em>demo</em>
+		<em>save file</em>
 	</p>
 </p>
 
@@ -63,8 +66,8 @@ This software is developed based on QT5.6/C++
    Only the valid lines starting with P need to be read in the file. For each valid line, the first column is the flag P, the second column is the index position of the selected point in the model, and the third and fourth columns are the selected points' Xyz coordinates
 
  <p align="center">
-	<img src="https://github.com/kaiwu119/PointPicker/blob/master/img/pointPicker5.png" alt="Sample"  width="600" height="350">
+	<img src="https://github.com/kaiwu119/PointPicker/blob/master/img/pointPicker5.png" alt="Sample"  width="600" height="200">
 	<p align="center">
-		<em>demo</em>
+		<em>fileFormat</em>
 	</p>
 </p>
