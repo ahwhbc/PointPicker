@@ -2,6 +2,9 @@
 
 This software is used to select points on the obj model and save them in a file.
 
+## Development environment
+This software is developed based on QT5.6/C++
+
 ## Instructions 
 
 ### 1. Open PointPicker software 
@@ -30,6 +33,7 @@ This software is used to select points on the obj model and save them in a file.
 
 ### 3. click Check box Point and picker
 
+   You can select points by right-clicking.
    As follows, three points are selected, the selected points are marked in red, and output related information is in the log
 
    This software also provides selection precision control, which can be used directly by default. If the selection operation is not accurate, you can adjust the precision value appropriately.
